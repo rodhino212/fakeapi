@@ -1,0 +1,43 @@
+{
+  "posts": [
+                {
+                  "country": "US",
+                  "last_update": "2020-04-24T06:31:06",
+                  "cases": 869172,
+                  "deaths": 49963,
+                  "recovered": 80934
+                },
+                {
+                  "country": "ES",
+                  "last_update": "2020-04-24T06:30:32",
+                  "cases": 213024,
+                  "deaths": 22157,
+                  "recovered": 89250
+                },
+                {
+                  "country": "IT",
+                  "last_update": "2020-04-24T06:30:32",
+                  "cases": 189973,
+                  "deaths": 25549,
+                  "recovered": 57576
+                },
+                {
+                  "country": "FR",
+                  "last_update": "2020-04-24T06:30:32",
+                  "cases": 159467,
+                  "deaths": 21889,
+                  "recovered": 42773
+                },
+                {
+                  "country": "DE",
+                  "last_update": "2020-04-24T06:30:32",
+                  "cases": 153129,
+                  "deaths": 5575,
+                  "recovered": 106800
+                }
+              ],
+              
+               "profile": {
+                  "name": "typicode"
+              }
+ }
